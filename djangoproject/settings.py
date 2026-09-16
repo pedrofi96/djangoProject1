@@ -38,8 +38,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'djangoweb.apps.DjangowebConfig',
+
     #Apps próprios
     'trydjango',
+    'pages',
+
 ]
 
 MIDDLEWARE = [
